@@ -1,1 +1,2 @@
 Tüm Nlp Projeleri
+- En son Bert Modeli görüldü. 22.10.2022
